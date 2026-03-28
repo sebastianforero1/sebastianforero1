@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Sebastián Forero</h1>
 
 <p align="center">
-  Ingeniero de Sistemas en formación con experiencia en <strong>machine learning, automatización de procesos y desarrollo full-stack</strong>.  
+  Ingeniero de Sistemas e Informática en formación con experiencia en <strong>machine learning, automatización de procesos y desarrollo full-stack</strong>.  
   Apasionado por la <strong>inteligencia artificial aplicada, la ciencia de datos y la arquitectura de soluciones en la nube</strong>.  
   Me motiva crear proyectos que combinen <strong>análisis, eficiencia y escalabilidad</strong> ⚙️📊🤖
 </p>
@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
 </p>
 
 ---
