@@ -1,32 +1,48 @@
-<h1 align="center">👋 ¡Hola! Soy Sebastián</h1>
+<h1 align="center">👋 ¡Hola! Soy Sebastián Forero</h1>
 
 <p align="center">
-  Estudiante de Ingeniería de Sistemas e Informática, interesado por la arquitectura de nube, inteligencia artificial, análisis de datos, desarrollo IoT, API RESTful con SpringBoot 🧠💻⚙️
+  Ingeniero de Sistemas en formación con experiencia en <strong>machine learning, automatización de procesos y desarrollo full-stack</strong>.  
+  Apasionado por la <strong>inteligencia artificial aplicada, la ciencia de datos y la arquitectura de soluciones en la nube</strong>.  
+  Me motiva crear proyectos que combinen <strong>análisis, eficiencia y escalabilidad</strong> ⚙️📊🤖
 </p>
 
 ---
 
 ## 🚀 Tecnologías y Lenguajes
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-1B1B1B?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
-### 🧠 Inteligencia Artificial
-- Redes neuronales (MLP, CNN, Transformers)
-- Detección de objetos y emociones en video
-- Visualización con Streamlit y mapas de calor
-- Optimización de modelos con métricas como `accuracy` y `loss`
+---
 
-### 🛠️ Herramientas
-- `PlatformIO` – Microcontroladores (ESP32, LilyGO T-Beam)
-- `Thunder Client` – Testeo de APIs
-- `DataGrip` – Consultas SQL avanzadas
-- `Docker` - Infraestructura y servidores
+## 🧠 Ciencia de Datos y Machine Learning
+
+- Modelos supervisados y no supervisados (regresión, clasificación y clustering)  
+- Redes neuronales (MLP, CNN, LSTM, Transformers)  
+- Procesamiento de texto (NLP) y visión por computadora  
+- Análisis exploratorio y visualización con `pandas`, `matplotlib`, `plotly` y `seaborn`  
+- Despliegue de modelos con `Streamlit`, `FastAPI` o `Docker`  
+- Integración y automatización de flujos con `n8n` (ETL, pipelines, alertas y bots de IA)
+
+---
+
+## 🛠️ Herramientas de Desarrollo
+
+- **PlatformIO** → Desarrollo IoT (ESP32, LilyGO T-Beam)  
+- **Thunder Client / Postman** → Testeo y documentación de APIs RESTful  
+- **DataGrip / DBeaver** → Consultas SQL y administración de bases de datos  
+- **Docker** → Contenerización y orquestación de entornos reproducibles  
+- **Git / Vercel / Cloudflare / Port** → Control de versiones y despliegue en la nube  
 
 ---
 
@@ -37,17 +53,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianforero1&layout=compact&theme=radical" alt="Top Langs" height="150"/>
 </p>
 
+---
 
-## 📬 ¡Hablemos!
+## 📬 ¡Conectemos!
 
-¿Te interesa colaborar en un proyecto interesante? ¡Estoy disponible para nuevos retos!
+¿Buscas colaboración en **proyectos de IA, automatización o análisis de datos**?  
+Estoy disponible para nuevos desafíos y proyectos freelance.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastián-forero-duque-96194a1ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="sebastianforero0410@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sebastián-forero-duque-96194a1ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sebastianforero0410@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">Gracias por pasarte por aquí.  </p>
-
+<p align="center">
+  🚀 “Transformo datos en decisiones, y procesos en soluciones inteligentes.”
+</p>
