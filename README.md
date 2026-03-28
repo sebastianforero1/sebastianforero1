@@ -50,14 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianforero1&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>](https://github-readme-stats.vercel.app/api?username=sebastianforero1&show_icons=true&theme=dark)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianforero1&layout=compact&theme=radical" alt="Top Langs" height="150"/>
-</p>
-
----
 
 ## 📬 ¡Conectemos!
 
